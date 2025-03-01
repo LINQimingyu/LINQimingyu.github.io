@@ -1,16 +1,17 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Linqimingyu](https://img.shields.io/badge/Linqimingyu-github-blue?logo=github)](https://github.com/Linqimingyu)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+喜欢敲代码
+[[知乎]](https://www.zhihu.com/people/bruceqd/columns)
+[[B站]](https://space.bilibili.com/484226629) (视频主要讲解有关数据挖掘竞赛的技术和知识)
 
 #### Email
-sli[at]cumt.edu.cn
+qiming9717[at]163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+2016-2019, 黄冈职业技术学院, 电气自动化技术, 专科\
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+运动控制, 机器视觉, 数据采集与监控系统（SCADA）, 数据可视化
 
