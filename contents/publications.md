@@ -1,3 +1,5 @@
-- Current Bioinformatics</strong>. [[Paper]](https://www.ingentaconnect.com/content/ben/cbio/2024/00000019/00000007/art00007) [[Code]](https://github.com/qdu-bioinfo/WTHMDA)
+- 温湿度监控系统设计-WPF. [[Code]](https://github.com/LINQimingyu/TMHASProject--WPF.git)
 
-- Current Bioinformatics</strong>. [[Paper]](https://www.ingentaconnect.com/content/ben/cbio/2024/00000019/00000007/art00007) [[Code]](https://github.com/qdu-bioinfo/WTHMDA)
+- 工厂MES系统设计. [[Code]](https://github.com/LINQimingyu/MesMonitorProject.git)
+
+- 基于Yolov5模型训练出的无畏契约训练集.[[Code]](https://github.com/LINQimingyu/Python_yolov5_va.git)
