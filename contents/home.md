@@ -2,7 +2,7 @@
 
 [![Linqimingyu](https://img.shields.io/badge/Linqimingyu-github-blue?logo=github)](https://github.com/Linqimingyu)
 
-啥也不会
+
 
 #### Email
 qiming9717@163.com
